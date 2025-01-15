@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @javiergsaldana
+- 👋 Hi, I’m Javierg Saldaña
 - 👀 I’m interested in IA, Full Stack developer
 - 🌱 I’m currently learning, Certified Tech Developer
 - 📫 How to reach me javiergsaldana@gmail.com
